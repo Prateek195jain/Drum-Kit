@@ -38,7 +38,7 @@ function makeSound(key) {
       tom4.play();
       break;
     case "j":
-      var crash = new Audio("sounds/crash.mp3");
+      var crash = new Audio("https://github.com/Prateek195jain/Drum-Kit/blob/main/crash.mp3");
       crash.play();
       break;
 
